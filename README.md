@@ -1,9 +1,6 @@
 Ethereum Crypto Arbitrage Bot using Aave platform.
 ==================================================
 
-Project code in Master Branch.
-==============================
-
 Crypto Arbitrage Bot on dex A and dex B on Aave.
 ================================================
 

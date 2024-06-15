@@ -18,6 +18,7 @@ Setup:
 FlashLoan.sol
 =============
 -requestFlashLoan()
+
 -executeOperation()
 
 FlashLoanArbitrage.sol
@@ -25,9 +26,13 @@ FlashLoanArbitrage.sol
 
 -depositUSDC();
 -buyDAI();
+
 -depositDAI();
+
 -sellDAI();
+
 -approveUSDC()
+
 -allowanceUSDC()
 
 Steps to Run:

@@ -2,7 +2,6 @@
 Ethereum Flash Loan Arbitrage Appication using Aave platform.
 =============================================================
 
-=============================
 Project code in Master Branch.
 =============================
 

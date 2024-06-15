@@ -33,5 +33,3 @@ sellDAI();
 approveUSDC()
 allowanceUSDC()
 
-Project code in Master Branch.
-==============================

@@ -1,9 +1,6 @@
 Ethereum Crypto Arbitrage Bot using Aave platform.
 ==================================================
 
-Crypto Arbitrage Bot on dex A and dex B on Aave.
-================================================
-
 1. Take a USDC Flash Loan from Aave.
 2. USDC/DAI price at DEX A > Dex B.
 3. Sell USDC Buy DAI at Dex A.
@@ -49,5 +46,3 @@ Steps to Run:
 
 thanks
 Uday
-
-dexA-

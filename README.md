@@ -18,15 +18,23 @@ Smartcontracts:
 ==============
 
 FlashLoan.sol
+
    -requestFlashLoan()
+   
    -executeOperation()
 
 FlashLoanArbitrage.sol
+
    -depositUSDC();
+   
    -buyDAI();
+   
    -depositDAI();
+   
    -sellDAI();
+   
    -approveUSDC()
+   
    -allowanceUSDC()
 
 Steps to Run:

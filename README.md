@@ -1,9 +1,6 @@
 Ethereum Crypto Arbitrage Bot using Aave platform.
 ==================================================
 
-Crypto Arbitrage Bot on dex A and dex B on Aave.
-================================================
-
 1. Take a USDC Flash Loan from Aave.
 2. USDC/DAI price at DEX A > Dex B.
 3. Sell USDC Buy DAI at Dex A.
@@ -11,12 +8,14 @@ Crypto Arbitrage Bot on dex A and dex B on Aave.
 5. Return Amount + Fees.
 6. Withdraw profit.
 
-1. Setup:
-
+Setup:
+======
+   
 1. Hardhat,Remix IDE,VS Code.
 2. Install Aave Core V3,ethersjs,openzeppelin depencies.
 
 Smartcontracts:
+==============
 
 FlashLoan.sol
    -requestFlashLoan()
@@ -31,6 +30,7 @@ FlashLoanArbitrage.sol
    -allowanceUSDC()
 
 Steps to Run:
+=============
 
 1. git clone https://github.com/CryptoArbitrageBots/dexA-dexB-AAVE.git
 2. open "https://remix.ethereum.org/"

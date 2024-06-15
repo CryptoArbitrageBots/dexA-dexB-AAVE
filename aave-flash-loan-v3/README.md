@@ -13,7 +13,7 @@ Setup:
 
 1. Hardhat,Remix IDE,VS Code.
 2. Install Aave Core V3,ethersjs,openzeppelin depencies.
-3. Smartcontracts:
+3. Smartcontracts.
 
 FlashLoan.sol
 =============
